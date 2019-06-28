@@ -1,0 +1,10 @@
+{
+    "name": "yanpingj/pintest",
+    "description": "a test project",
+    "type": "project",
+    "require": {
+        "dzafel/pinterest-pinner": "^2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
